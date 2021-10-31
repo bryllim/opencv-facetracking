@@ -1,3 +1,2 @@
 # Face Tracking
-
-  Using Python and OpenCV
+Using Python and OpenCV
